@@ -46,7 +46,7 @@ def invoke_error():
 def client_app_folder(filename):
     return send_from_directory(APP_FOLDER, filename)
 
-SafeRun(app,{'from_addr':'svarnow.notify@gmail.com','to_addr':'parmesh20120@gmail.com','password':'azadAZAD1!'})
+SafeRun(app,{'from_addr':'','to_addr':'','password':''})
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000, debug=True)
