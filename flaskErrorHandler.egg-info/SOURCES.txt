@@ -1,6 +1,6 @@
 README.md
-flaskErrorHandler
 setup.py
+flaskErrorHandler/__init__.py
 flaskErrorHandler.egg-info/PKG-INFO
 flaskErrorHandler.egg-info/SOURCES.txt
 flaskErrorHandler.egg-info/dependency_links.txt
